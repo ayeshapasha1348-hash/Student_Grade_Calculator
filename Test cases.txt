@@ -1,0 +1,11 @@
+Test Case 1:
+Name: Alex
+Marks: 92
+Expected Grade: A
+Expected Message: Excellent! Keep it up! 🌟
+
+Test Case 2:
+Name: Sara
+Marks: 75
+Expected Grade: C
+Expected Message: Good! You can improve
